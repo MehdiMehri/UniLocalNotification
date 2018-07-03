@@ -1,1 +1,1 @@
-include ':app', ':unilocalnotification'
+include ':app', ':unilocalnotification', ':unilocalnotification2'
